@@ -1,5 +1,4 @@
-# BERT-fine-tune-federated-sentiment
-Federated Fine-tuning of BERT model for sentiment analysis
+# Federated Fine-tuning of BERT model for sentiment analysis
 
 prepared by: 
 
