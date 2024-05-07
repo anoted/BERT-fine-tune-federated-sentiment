@@ -3,9 +3,9 @@ Federated Fine-tuning of BERT model for sentiment analysis
 
 prepared by: 
 
-* Aaron Meoded (meoded@mail.yu.edu)
+* Aaron Meoded 
 
-* Nobel, Ashikur (anobel@mail.yu.edu)  
+* Nobel, Ashikur
   
 
 **Requirements**: 
